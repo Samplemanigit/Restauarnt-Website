@@ -1,5 +1,5 @@
 Live Link :
- https://githubpriyanshi.github.io/Restaurant-Website/
+ 
  
  ![Application screenshot](./assets/screenshot.png)
 

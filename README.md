@@ -1,5 +1,5 @@
 Live Link :
- 
+ https://samplemanigit.github.io/Restauarnt-Website/
  
  ![Application screenshot](./assets/screenshot.png)
 
